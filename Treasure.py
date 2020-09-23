@@ -2,8 +2,6 @@
 n = int(input("Enter number of pirates: ")) 
 temp = n
 total_sums = [0]*n # creates a list of zeros of size n
-
-
 t = [] 
 order_taken = []  
 numOfElm = int(input("Enter Treasure length: ")) 
