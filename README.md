@@ -1,2 +1,2 @@
 # PirateTreasure
-Solution to coding problem of pirate treasure count.
+This is the solution to the coding challenge of the pirate treasure count.
